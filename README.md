@@ -1,4 +1,5 @@
-Note: python version 3.6.5
+Note: **python version 3.6.5**
+
 Steps to run code:
 1. Install all the packages in virtualenv with **pip install -r requirements.txt**
 2. Run the server with **python server.py**
