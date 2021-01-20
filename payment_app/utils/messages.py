@@ -1,0 +1,8 @@
+PAYMENT_PROCESSED = "Payment processed"
+INVALID_CREDIT_CARD = "credit_card_number is invalid"
+INVALID_EXPIRY_DATE = "expiry_date must be valid future date in '%d/%m/%y' format."
+INVALID_AMOUNT = "amount must be valid positive amount"
+INVALID_SECURITY_CODE = "security code must be 3 digit number"
+METHOD_NOT_ALLOWED = "method not allowed"
+SERVER_ERROR = "something went wrong!!"
+PARAMETER_MISSING = "{} is required parameter"
