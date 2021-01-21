@@ -6,4 +6,4 @@ Steps to run code:
 3. Import postman collection with this url
 https://www.getpostman.com/collections/f3e373f4042f8dba6978
 and send the request to local server
-4. To run test cases **python python app_test.py**
+4. To run test cases **python app_test.py**
